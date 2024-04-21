@@ -1,9 +1,6 @@
-
-# Flipkart QA Bot
+# QA Bot
 
 Our AI-powered assistant, powered by FLAN T5, can answer all your questions and more. Ask away and experience a faster, smoother shopping experience on Flipkart!
-
-
 
 
 ## Run Locally
@@ -26,6 +23,10 @@ Install dependencies
 ```bash
   pip install -r requirements.txt
 ```
+
+
+Set environment variable
+- Set `model_path` variable with path where your model(.ckpt file) exists. 
 
 Start the server
 
