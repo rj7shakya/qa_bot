@@ -45,7 +45,11 @@ Start the server
 
 Download this [model](https://drive.google.com/file/d/1--WbStS9PmWRvbxpRPlUBYi3kMdf91lL/view?usp=sharing) into your project base path.
 
+## Dataset
 
+- Ecommerce(Flipkart) FAQs
+
+- [Link](https://drive.google.com/file/d/1--WbStS9PmWRvbxpRPlUBYi3kMdf91lL/view?usp=sharing)
 
 
 ## Screenshots
