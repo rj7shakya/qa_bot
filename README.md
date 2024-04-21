@@ -50,7 +50,7 @@ Start the server
 
 ## Model
 
-Download this [model](https://drive.google.com/file/d/1--WbStS9PmWRvbxpRPlUBYi3kMdf91lL/view?usp=sharing) into your project base path.
+Download this [model](https://drive.google.com/file/d/1--WbStS9PmWRvbxpRPlUBYi3kMdf91lL/view?usp=sharing) and add it to your project base path.
 
 
 
