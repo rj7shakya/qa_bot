@@ -42,6 +42,17 @@ Start the server
 **Web:** Flask, HTML, Daisy UI
 
 
+## Model
+
+Download this [model](https://drive.google.com/file/d/1--WbStS9PmWRvbxpRPlUBYi3kMdf91lL/view?usp=sharing) into your project base path.
+
+## Dataset
+
+- Ecommerce(Flipkart) FAQs
+
+- [Link](https://huggingface.co/datasets/NebulaByte/E-Commerce_FAQs)
+
+
 ## Screenshots
 
 ![App Screenshot](https://private-user-images.githubusercontent.com/33741753/324223706-790e5188-6b5e-4fc6-8e69-05697179c4c5.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTM3MDM1MTgsIm5iZiI6MTcxMzcwMzIxOCwicGF0aCI6Ii8zMzc0MTc1My8zMjQyMjM3MDYtNzkwZTUxODgtNmI1ZS00ZmM2LThlNjktMDU2OTcxNzljNGM1LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA0MjElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNDIxVDEyNDAxOFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWI3ZDY1YzU0ZDVlMTA4ZDMzYmE1NDhhM2EyZmUyYmFmMTQyNzIzYmE3NTkwYzJkMjUwMWE3YWVmN2QzMzg0ZmQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.KWBYPotFhM7AdRpb0AueeC3uThoAtAJFH_GFRdrDr8g)
