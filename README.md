@@ -1,9 +1,6 @@
-
-# Flipkart QA Bot
+# QA Bot
 
 Our AI-powered assistant, powered by FLAN T5, can answer all your questions and more. Ask away and experience a faster, smoother shopping experience on Flipkart!
-
-
 
 
 ## Run Locally
@@ -27,6 +24,10 @@ Install dependencies
   pip install -r requirements.txt
 ```
 
+
+Set environment variable
+- Set `model_path` variable with path where your model(.ckpt file) exists. 
+
 Start the server
 
 ```bash
@@ -39,13 +40,6 @@ Start the server
 **ML:** Transformers, Numpy, flan-t5-base
 
 **Web:** Flask, HTML, Daisy UI
-
-
-## Model
-
-Download this [model](https://drive.google.com/file/d/1--WbStS9PmWRvbxpRPlUBYi3kMdf91lL/view?usp=sharing) into your project base path.
-
-
 
 
 ## Screenshots

@@ -1,2 +1,4 @@
-/qa
-flipkart_qa_v1.ckpt
+./venv
+__pycache__
+./model
+.env
