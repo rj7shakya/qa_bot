@@ -49,7 +49,7 @@ Download this [model](https://drive.google.com/file/d/1--WbStS9PmWRvbxpRPlUBYi3k
 
 - Ecommerce(Flipkart) FAQs
 
-- [Link](https://drive.google.com/file/d/1--WbStS9PmWRvbxpRPlUBYi3kMdf91lL/view?usp=sharing)
+- [Link](https://huggingface.co/datasets/NebulaByte/E-Commerce_FAQs)
 
 
 ## Screenshots
